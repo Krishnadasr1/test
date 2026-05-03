@@ -4,5 +4,3 @@ hello
 add beta line
 
 staging
-
-main
